@@ -1,7 +1,6 @@
 {
   "name": "figma-react-boilerplate",
   "version": "0.1.0",
-  "homepage": "https://sarvesh4396.github.io/SaaS-Landing-Page-Design/",
   "private": true,
   "dependencies": {
     "@tailwindcss/forms": "0.4.0",
